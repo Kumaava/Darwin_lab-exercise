@@ -1,5 +1,7 @@
 # Darwin_labs-exercise
 
+### Library and skills used : Python, BeautifulSoup, Selenium, Parsing, urllib, requests, JSON, function oriented programming. 
+
 
 Question1=> Read file "data.json", and write a recursive function to convert every value of key "quantity" to 23gm, 50gm and 260gm. Presently data is given for 100gm.
 <img width="1088" alt="screen shot 2017-07-27 at 11 34 40 am" src="https://user-images.githubusercontent.com/11708565/28656644-b65ff500-72c0-11e7-8b5f-1b61b32dc50a.png">
